@@ -1,0 +1,8 @@
+{
+  "name": "Kumbh Mela Companion",
+  "description": "The official companion app for Nasik Kumbh Mela pilgrims, featuring live darshan, transport guides, parking booking, emergency SOS, and offline support.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
